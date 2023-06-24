@@ -28,7 +28,7 @@ public class RemoveDuplicate {
 						}
 					}
 				}
-				colum = duplicate[i].length;;
+				colum = duplicate[i].length;
 			}
 		}
 		
